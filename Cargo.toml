@@ -1,0 +1,11 @@
+[package]
+name = "puni"
+description = "A constrained virtual computer"
+repository = "https://github.com/puni-computer/puni"
+keywords = ["puni", "console", "retro"]
+authors = ["George Moschovitis <george.moschovitis@gmail.com>"]
+license = "GPL-3.0"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
